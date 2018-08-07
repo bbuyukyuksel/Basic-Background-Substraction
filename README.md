@@ -1,4 +1,4 @@
-# Basic-Background-Substraction
+# Basic Background Substraction
 ## Video'dan arka plan çıkarımı ve arka planın başka bir görüntü ile değiştirilmesi gerçekleştirilir.
 
 ## Yönergeler
